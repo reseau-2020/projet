@@ -45,6 +45,6 @@ Afficher une image distante :
 
 ![image distante](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
 
-ou une image local :
+ou une image locale :
 
 ![image locale](/projet/assets/GitHub-Logo.png)
