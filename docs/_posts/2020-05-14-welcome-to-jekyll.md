@@ -5,7 +5,7 @@ date:   2020-05-14
 categories: welcome
 ---
 
-Les sources du site web se situent dans le `docs/`. Il est nécessaire d'effectuer deux choses pour le faire fonctionner :
+Les sources du site web se situent dans le dossier `docs/`. Il est nécessaire d'effectuer deux choses pour le faire fonctionner :
 
 - modifier le nom du repo dans le `fichier docs/_config.yml` : `baseurl: "/votre-nom-de-repo"`
 - Activer la fonction Github Pages dans les propriétés ("settings") du repo et choisir la source "Master Branch /docs"
