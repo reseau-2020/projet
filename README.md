@@ -107,7 +107,7 @@ Le code de l'infrastructure doit reprendre au minimum :
 
 ### 3.1. Réunion privée
 
-Il est recommandé d'utiliser les réunion privées dédiée https://ensemble-bbb.scaleway.com/, une par équipe, dont vous communiquez l'url au formateur via Slack.
+Il est recommandé d'utiliser les réunions privées dédiée https://ensemble-bbb.scaleway.com/, une par équipe, dont vous communiquez l'url au formateur via Slack.
 
 ### 3.2. Documentation
 
