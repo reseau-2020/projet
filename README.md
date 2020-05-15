@@ -107,7 +107,7 @@ Le code de l'infrastructure doit reprendre au minimum :
 
 ### 3.1. Réunion privée
 
-Il est recommandé d'utiliser les réunions privées dédiée https://ensemble-bbb.scaleway.com/, une par équipe, dont vous communiquez l'url au formateur via Slack.
+Il est recommandé d'utiliser les réunions privées dédiées https://ensemble-bbb.scaleway.com/, une par équipe, dont vous communiquez l'url au formateur via Slack.
 
 ### 3.2. Documentation
 
@@ -127,6 +127,7 @@ Il est recommandé d'utiliser les réunions privées dédiée https://ensemble-b
 - Issue GitHub
 - [Kanban](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards)
 - [Gant Mermaid](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ2FudHRcblx0dGl0bGUgQSBHYW50dCBEaWFncmFtXG5cdGRhdGVGb3JtYXQgIFlZWVktTU0tRERcblx0c2VjdGlvbiBTZWN0aW9uXG5cdEEgdGFzayAgICAgICAgICAgOmExLCAyMDE0LTAxLTAxLCAzMGRcblx0QW5vdGhlciB0YXNrICAgICA6YWZ0ZXIgYTEgICwgMjBkXG5cdHNlY3Rpb24gQW5vdGhlclxuXHRUYXNrIGluIHNlYyAgICAgIDoyMDE0LTAxLTEyICAsIDEyZFxuXHRhbm90aGVyIHRhc2sgICAgICA6IDI0ZFxuXHRcdFx0XHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6dHJ1ZX0)
+- [Gantt Project](https://www.ganttproject.biz)
 
 ### 3.5. Gestion
 
