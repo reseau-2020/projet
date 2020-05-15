@@ -10,6 +10,8 @@ Les sources du site web se situent dans le `docs/`. Il est nécessaire d'effectu
 - modifier le nom du repo dans le `fichier docs/_config.yml` : `baseurl: "/votre-nom-de-repo"`
 - Activer la fonction Github Pages dans les propriétés ("settings") du repo et choisir la source "Master Branch /docs"
 
+![](https://github.blog/wp-content/uploads/2016/08/d516076e-640c-11e6-8086-ce1d246a87d2.png?w=1460)
+
 Vous trouverez ce poste dans votre répertoire `docs/_posts/`. Allez-y, éditez-le et reconstruisez le site pour voir vos changements. Il vous suffira de mettre à jour votre repo git pour que le site suite publié automatiquement sur l'url https://reseau-2020.github.io/votre-nom-de-repo.
 
 Jekyll exige que les fichiers d'articles de blog soient nommés selon le format suivant :
