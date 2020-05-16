@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/projet" # the subpath of your site, e.g. /blog !!! A adapter
-url: "https://reseau-2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com !!! ne pas modifier
+  url: "https://reseau-2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com !!! ne pas modifier
 twitter_username: goffinet
 github_username:  goffinet
 
@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
 
 remote_theme: broccolini/swiss
+#remote_theme: pmarsceill/just-the-docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
