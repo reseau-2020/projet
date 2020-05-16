@@ -44,7 +44,7 @@ Il s'agit de travailler à partir d'un seul repo commun qui est constitué de do
 
 #### 8 jours
 
-8 jours (3+5) qui doivent comprendre des étapes :
+10 jours (1+4+5) qui doivent comprendre des étapes :
 
 - d'organisation de l'équipe, de répartion des tâches, de prise en main des outils, ...
 - des actions à accomplir, de construction, d'implémentation, de debug, ...
@@ -118,7 +118,7 @@ Il est recommandé d'utiliser les réunions privées dédiées https://ensemble-
 
 ### 3.3. Diagrammes
 
-- GNS3
+- screenshot GNS3
 - [https://www.lucidchart.com/](https://www.lucidchart.com/)
 - [http://go.drawthe.net/](http://go.drawthe.net/)
 
